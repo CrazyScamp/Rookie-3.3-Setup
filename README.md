@@ -104,7 +104,7 @@ href="https://github.com/CrazyScamp/Finding-Unknown-Sources-Quest">
 
 ## ⚠️ PLEASE NOTE
 
-This is **Rookie Sideloader** configured to use a ```server / database``` new of games.
+This is **Rookie Sideloader** configured to use a new working ```server / database```
 
 ---
 
