@@ -115,3 +115,5 @@ If you need to update the ```json config file```
 1. Open Rookie
 
 2. Click ```SETUP```
+
+3. Select ```PROVIDE PUBLIC CONFIG```
