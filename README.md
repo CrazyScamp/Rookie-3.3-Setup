@@ -29,7 +29,7 @@ href="https://github.com/CrazyScamp/Setup-Quest-For-Sideloading">
 ##  ⏬ DOWNLOAD LINKS
 <p>
   <a 
-href="https://github.com/nerdunit/androidsideloader/releases/download/v3.3/AndroidSideloader.exe">
+href="https://github.com/nerdunit/androidsideloader/releases/download/v3.4/AndroidSideloader.exe">
     <img src="https://img.shields.io/badge/Download-Rookie-blue?style=for-the-badge">
   </a>
   </p>
